@@ -1,2 +1,1 @@
-# learningjourno
-stuff
+# learning journal
