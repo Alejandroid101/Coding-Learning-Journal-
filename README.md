@@ -1,23 +1,6 @@
-# learning journal
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>repl.it</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
-  </head>
-  <body>
-    <h1> This shall be the website of the future </h1>
-    <img src="https://strattonhats.com/wp-content/uploads/S36.jpg" height= 300 px>
-    <button> Buy me now! </button>
-    <h3> try these other hat styles! </h3>
-    <ol>
-      <li>cowbow hat </li>
-      <li> fedora </li>
-      <li> fancy hat </li>
-      <li> trucker hat </li>
-    </ol>
-    <script src="script.js"></script>
-  </body>
-</html>
+# learningjournal
+Growth mindset is the realization that one's mind does not stop growing as we age, rather it can keep growing if we allow ourselves to keep an open mind, and put in the time to keep learning new things. The saying "you cannot teach new tricks to an old dog" 
+Whenever you find yourself stuck thinking you plateau on your learning and growing capabilities, remember:
+1.-Calm down, breathe, go for a walk and try to approach the issue from a new perspective
+2.-Dont thnk, just do!
+3.-My old uncle became a lawyer at 57 years of age. I can surely become a programmer at 28
